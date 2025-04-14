@@ -1,6 +1,6 @@
-# Metacrafters Repository
+# Integrating Web3 techniques- my repository (practice)
 
-Welcome to my Metacrafters repository! This repository is dedicated to showcasing my journey and projects as I explore and develop various skills in the world of technology and crafting. Here, you will find a collection of projects that I will be working on
+Welcome to my Metacrafters repository! This repository is dedicated to showcasing my journey and projects as I explore and develop various skills in the world of Web3 tech. Here, you will find a collection of projects that I will be working on
 ## Purpose
 
 The purpose of this repository is to document my progress, share my projects, and contribute to the Metacrafters community. Each project will serve as a learning experience and an opportunity to apply new concepts and techniques.
